@@ -5,15 +5,16 @@ Accompanying repository for "Architectural patterns of resilient distributed sys
 ## Talk Outline
 See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](#).
 
-*
-
+* Why Resilience
+* Resilience Engineering Literature
+* Resilience in Industry
+* Conclusions
 
 # References
 * http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html
 * http://applicative.acm.org/speaker-TheoSchlossnagle.html
 * https://www.joyent.com/blog/manta-postmortem-7-27-2015
 * http://techblog.netflix.com/2015/08/from-chaos-to-control-testing.html
-
 
 * [Failure Sketches: A Better Way to Debug](https://www.usenix.org/conference/hotos15/workshop-program/presentation/kasikci)
 * [Fault Tolerance and the Five-Second Rule](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-chen_ang.pdf)
