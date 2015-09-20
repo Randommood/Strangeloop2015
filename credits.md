@@ -1,3 +1,31 @@
 ## Image Credits
 
 * [Pug](https://thenounproject.com/search/?q=pug&i=3170)
+* https://www.flickr.com/photos/twodolla/3140766030/
+* https://www.flickr.com/photos/squishy/4283384
+* http://static.awkwardfamilyphotos.com/wp-content/uploads/cache/2015/03/01-3lDBXXU/3735362130.jpg
+* http://lovelace-media.imgix.net/uploads/191/f1f1fb10-e35d-0131-bff1-0eb233c768fb.jpg?w=1200&h=1200&fit=max&fm=jpg&q=65
+
+* https://www.flickr.com/photos/30378582@N04/4885282554/
+* https://www.flickr.com/photos/lauripiper/7595345258
+* https://www.flickr.com/photos/16724360@N04/10290674743
+* https://www.flickr.com/photos/16724360@N04/10290374914
+* https://www.flickr.com/photos/16724360@N04/10290276724
+* https://www.flickr.com/photos/16724360@N04/10290486753
+* https://www.flickr.com/photos/lauripiper/7588675192
+* https://www.flickr.com/photos/pennstatelive/21061551969
+* https://www.flickr.com/photos/theresa21/253369730
+
+* http://cdn.phuntube.com/images/2015/04/everyone_involved_in_the_taking_of_this_wedding_photo-23478.jpg
+* http://www.glamour.com/images/weddings/2015/07/wedding-fails-0722-instagram-main.jpg
+* http://s2.dmcdn.net/Jk3pJ/1280x720-QcH.jpg
+* http://img.opposingviews.com/sites/default/files/styles/adaptive/public/gallery/13/12/slides/belly.jpg?itok=hRDLJyFk
+* http://pixel.brit.co/wp-content/uploads/2014/08/cake3.jpg
+* http://i.dailymail.co.uk/i/pix/2011/04/29/article-1381960-0BD4DC2100000578-217_634x398.jpg
+* http://i.dailymail.co.uk/i/pix/2012/12/04/article-2242863-16551FA1000005DC-415_634x417.jpg
+http://torontocitygossip.com/wp-content/uploads/2014/06/08683cc698dffaefd55f9eb800550c7d-wedding-photo-shoot-fail.jpg
+
+* http://sh-www-prod.s3.amazonaws.com/originals/711.jpg
+* https://pointwhitedrive.files.wordpress.com/2011/12/funny-cats-wedding-wallpaper.jpg
+* http://vignette4.wikia.nocookie.net/uncyclopedia/images/7/72/Funny-cow-in-wedding-dress.jpg/revision/latest?cb=20120502080937
+http://hdwyn.com/wallpaper_mirror/dogs_wedding_funny_outfit_hd-wallpaper-28611.jpg
