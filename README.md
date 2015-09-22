@@ -19,7 +19,7 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
  * Back to the start
  * Parting thoughts and rantifestos
 
-# References
+## References
 
 ### Resilience literature
 * [Harvest, Yield, and Scalable Tolerant Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.3690&rep=rep1&type=pdf)
@@ -34,8 +34,6 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
 * [Scale free Networks - computerworld](http://www.computerworld.com/article/2579374/networking/scale-free-networks.html)
 * [The Scale-free property - Barabási](http://barabasilab.neu.edu/networksciencebook/download/network_science_december_ch4_2013.pdf)
 * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf)
-
-
 * [Failure Sketches: A Better Way to Debug](https://www.usenix.org/conference/hotos15/workshop-program/presentation/kasikci)
 * [Virtual Network Diagnosis as a Service](https://research.facebook.com/publications/616093585136896/virtual-network-diagnosis-as-a-service/)
 * []()
