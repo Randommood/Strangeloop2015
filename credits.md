@@ -15,6 +15,8 @@
 * https://www.flickr.com/photos/lauripiper/7588675192
 * https://www.flickr.com/photos/pennstatelive/21061551969
 * https://www.flickr.com/photos/theresa21/253369730
+* https://www.flickr.com/photos/alexbrn/9328404612
+* https://www.flickr.com/photos/129263274@N02/16081890408
 
 * http://cdn.phuntube.com/images/2015/04/everyone_involved_in_the_taking_of_this_wedding_photo-23478.jpg
 * http://www.glamour.com/images/weddings/2015/07/wedding-fails-0722-instagram-main.jpg

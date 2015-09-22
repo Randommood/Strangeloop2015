@@ -6,9 +6,18 @@ Accompanying repository for the "Architectural patterns of resilient distributed
 See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](#).
 
 * Why Resilience
+ * Motivation & Definitions
 * Resilience Literature
+ * Harvest/Yield thinking
+ * Cook's Model
+ * Borrill's Model
 * Resilience in industry
+ * Netflix
+ * Google
+ * Fastly
 * Conclusions
+ * Back to the start
+ * Parting thoughts and rantifestos
 
 # References
 
@@ -21,30 +30,31 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
 * [Part Count and Design of Robust Systems](http://meche.mit.edu/documents/danfrey/danfrey_partcount.pdf)
 * [Highly Optimized Tolerance: A Mechanism for Power Laws in Designed Systems](http://snap.stanford.edu/class/cs224w-readings/carlson99tolerance.pdf)
 * [Fault Tolerance and the Five-Second Rule](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-chen_ang.pdf)
-
 * [Scale-free network](https://en.wikipedia.org/wiki/Scale-free_network)
 * [Scale free Networks - computerworld](http://www.computerworld.com/article/2579374/networking/scale-free-networks.html)
 * [The Scale-free property - Barabási](http://barabasilab.neu.edu/networksciencebook/download/network_science_december_ch4_2013.pdf)
 * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf)
-* []()
-* []()
-* []()
-* []()
+
 
 * [Failure Sketches: A Better Way to Debug](https://www.usenix.org/conference/hotos15/workshop-program/presentation/kasikci)
 * [Virtual Network Diagnosis as a Service](https://research.facebook.com/publications/616093585136896/virtual-network-diagnosis-as-a-service/)
-
+* []()
+* []()
+* []()
+* []()
 
 
 ### Resilience in industry
 * [Fault tolerance in a high-volume distributed system](http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html)
 * [From Chaos to Control - Testing the resiliency of Netflix’s Content Discovery Platform](http://techblog.netflix.com/2015/08/from-chaos-to-control-testing.html)
+* [Making the Netflix API More Resilient](http://techblog.netflix.com/2011/12/making-netflix-api-more-resilient.html)
 * [Google Finds: Centralized Control, Distributed Data Architectures Work Better Than Fully Decentralized Architectures](http://highscalability.com/blog/2014/4/7/google-finds-centralized-control-distributed-data-architectu.html)
 * [Clients are Jerks: aka How Halo 4 DoSed the Services at Launch & How We Survived](http://caitiem.com/2015/06/23/clients-are-jerks-aka-how-halo-4-dosed-the-services-at-launch-how-we-survived/)
 * [Game Day Exercises at Stripe: Learning from kill -9](https://stripe.com/blog/game-day-exercises-at-stripe)
 * [How we ended up with microservices](http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
 * [Postmortem for July 27 outage of the Manta service](https://www.joyent.com/blog/manta-postmortem-7-27-2015)
 * [Fastpass: A Centralized “Zero-Queue” Datacenter Network](https://research.facebook.com/publications/755941051111272/fastpass-a-centralized-zero-queue-datacenter-network/)
+* [Hashicorp Yamux](https://github.com/hashicorp/yamux)
 
 
 ### Media
