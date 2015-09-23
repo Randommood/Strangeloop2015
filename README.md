@@ -39,6 +39,13 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
 * [‘‘Going solid’’: a model of system dynamics and
 consequences for patient safety](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1743994/pdf/v014p00130.pdf)
 * [Building on Quicksand](http://db.cs.berkeley.edu/cs286/papers/quicksand-cidr2009.pdf)
+* [Immutability Changes Everything](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
+* [You can't sacrifice partition tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/)
+* [Complex adaptive system](https://en.wikipedia.org/wiki/Complex_adaptive_system)
+* [Robustness principle](https://en.wikipedia.org/wiki/Robustness_principle)
+* [Scale-free network](https://en.wikipedia.org/wiki/Scale-free_network)
+* [Small-world experiment](https://en.wikipedia.org/wiki/Small-world_experiment)
+* [Control Theory](https://en.wikipedia.org/wiki/Control_theory)
 * []()
 * []()
 
@@ -63,6 +70,7 @@ consequences for patient safety](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC174
 * [Network Theory: 16 Robustness & Resilience](https://www.youtube.com/watch?v=_ztNkmDg0mw)
 * [Design of Resilient Systems - Innovations in Thinking Differently](https://www.youtube.com/watch?v=nV52yh6GDMg)
 * [Camille Fournier's Papers We Love Talk on The Chubby lock service for loosely-coupled distributed systems](https://www.youtube.com/watch?v=PqItueBaiRg) and [slides](https://speakerdeck.com/hakka_labs/the-chubby-lock-service-for-loosely-coupled-distributed-systems)
+* [Scaling Networks through Software](https://www.usenix.org/conference/srecon15/program/presentation/taveira)
 
 
 # Thank you!

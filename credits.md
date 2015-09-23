@@ -17,6 +17,7 @@
 * https://www.flickr.com/photos/theresa21/253369730
 * https://www.flickr.com/photos/alexbrn/9328404612
 * https://www.flickr.com/photos/129263274@N02/16081890408
+* https://www.flickr.com/photos/habologique/16973950316
 
 * http://cdn.phuntube.com/images/2015/04/everyone_involved_in_the_taking_of_this_wedding_photo-23478.jpg
 * http://www.glamour.com/images/weddings/2015/07/wedding-fails-0722-instagram-main.jpg
@@ -31,3 +32,10 @@ http://torontocitygossip.com/wp-content/uploads/2014/06/08683cc698dffaefd55f9eb8
 * https://pointwhitedrive.files.wordpress.com/2011/12/funny-cats-wedding-wallpaper.jpg
 * http://vignette4.wikia.nocookie.net/uncyclopedia/images/7/72/Funny-cow-in-wedding-dress.jpg/revision/latest?cb=20120502080937
 http://hdwyn.com/wallpaper_mirror/dogs_wedding_funny_outfit_hd-wallpaper-28611.jpg
+
+### Icons
+* [help by Luis Prado](https://thenounproject.com/search/?q=lifeguard&i=28806)
+* [Mannequin by José Manuel de Laá](https://thenounproject.com/search/?q=pattern&i=150984)
+* [Compass by iconsmind.com](https://thenounproject.com/search/?q=pattern&i=71521)
+* [graduates by MikaDo Nguyen](https://thenounproject.com/search/?q=professor&i=194351)
+* [graduate by Creative Stall](https://thenounproject.com/search/?q=professor&i=144348)
