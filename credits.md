@@ -39,3 +39,6 @@ http://hdwyn.com/wallpaper_mirror/dogs_wedding_funny_outfit_hd-wallpaper-28611.j
 * [Compass by iconsmind.com](https://thenounproject.com/search/?q=pattern&i=71521)
 * [graduates by MikaDo Nguyen](https://thenounproject.com/search/?q=professor&i=194351)
 * [graduate by Creative Stall](https://thenounproject.com/search/?q=professor&i=144348)
+* [Fruit by Creative Stall](https://thenounproject.com/search/?q=fruits&i=130493)
+* [Warning by Golden Roof](https://thenounproject.com/search/?q=availability&i=169393)
+* [Layers by Mike Ashley](https://thenounproject.com/search/?q=composition&i=74310)

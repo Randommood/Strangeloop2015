@@ -74,4 +74,4 @@ consequences for patient safety](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC174
 
 
 # Thank you!
-Thank you to everyone who helped with feedback/resources and advice for this talk. Special thanks to: Paul Borrill, Jordan West, Caitie McCaffrey, Camille Fournier, Mike O'Neill, Neha Narula, Matt Whiteley, Joao Taveira, Tyler McMullen, Zac Duncan, Nathan Taylor, Armon Dadgard, Peter Alvaro, Peter Bailis, Alex Rasmussen, Aysulu Greenberg, and Greg Bako.
+Thank you to everyone who helped with feedback/resources and advice for this talk. Special thanks to: Paul Borrill, Jordan West, Caitie McCaffrey, Camille Fournier, Mike O'Neill, Neha Narula, Matt Whiteley, Joao Taveira, Tyler McMullen, Zac Duncan, Nathan Taylor, Armon Dadgard, Peter Alvaro, Peter Bailis, Alex Rasmussen, Bruce Spang, Aysulu Greenberg, and Greg Bako.
