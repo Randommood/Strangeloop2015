@@ -22,6 +22,7 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
 ## References
 
 ### Resilience literature
+* [Baller checklist on things to remember](http://monkey.org/~marius/checklist.pdf)
 * [Harvest, Yield, and Scalable Tolerant Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.24.3690&rep=rep1&type=pdf)
 * [Computer Immunology - Burgess](http://people.scs.carleton.ca/~soma/biosec/readings/burgess-immunology.pdf)
 * [Building Robust Systems an essay - Sussman](http://groups.csail.mit.edu/mac/users/gjs/6.945/readings/robust-systems.pdf)
@@ -55,6 +56,7 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
 * [Postmortem for July 27 outage of the Manta service](https://www.joyent.com/blog/manta-postmortem-7-27-2015)
 * [Hashicorp Yamux](https://github.com/hashicorp/yamux)
 * [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+* [Summary of the Amazon DynamoDB Service Disruption and Related Impacts in the US-East Region](https://aws.amazon.com/message/5467D2/)
 
 ### Media
 * [Velocity NY 2013:   Richard Cook, "Resilience In Complex Adaptive Systems"](https://www.youtube.com/watch?v=PGLYEDpNu60&feature=youtu.be)

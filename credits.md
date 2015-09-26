@@ -16,6 +16,7 @@
 * http://cdn.phuntube.com/images/2015/04/everyone_involved_in_the_taking_of_this_wedding_photo-23478.jpg
 * http://pixel.brit.co/wp-content/uploads/2014/08/cake3.jpg
 * http://sh-www-prod.s3.amazonaws.com/originals/711.jpg
+* https://www.flickr.com/photos/jaumepi/5551619510
 
 ### Icons
 * [help by Luis Prado](https://thenounproject.com/search/?q=lifeguard&i=28806)
