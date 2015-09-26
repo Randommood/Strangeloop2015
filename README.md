@@ -36,8 +36,7 @@ See the [image credits](credits.md), link to [slides-soon](#), and [video-soon](
 * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf)
 * [Failure Sketches: A Better Way to Debug](https://www.usenix.org/conference/hotos15/workshop-program/presentation/kasikci)
 * [Virtual Network Diagnosis as a Service](https://research.facebook.com/publications/616093585136896/virtual-network-diagnosis-as-a-service/)
-* [‘‘Going solid’’: a model of system dynamics and
-consequences for patient safety](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1743994/pdf/v014p00130.pdf)
+* [‘Going solid’: a model of system dynamics and consequences for patient safety](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1743994/pdf/v014p00130.pdf)
 * [Building on Quicksand](http://db.cs.berkeley.edu/cs286/papers/quicksand-cidr2009.pdf)
 * [Immutability Changes Everything](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
 * [You can't sacrifice partition tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/)
@@ -45,10 +44,6 @@ consequences for patient safety](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC174
 * [Robustness principle](https://en.wikipedia.org/wiki/Robustness_principle)
 * [Scale-free network](https://en.wikipedia.org/wiki/Scale-free_network)
 * [Small-world experiment](https://en.wikipedia.org/wiki/Small-world_experiment)
-* [Control Theory](https://en.wikipedia.org/wiki/Control_theory)
-* []()
-* []()
-
 
 ### Resilience in industry
 * [Fault tolerance in a high-volume distributed system](http://techblog.netflix.com/2012/02/fault-tolerance-in-high-volume.html)
@@ -72,6 +67,5 @@ consequences for patient safety](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC174
 * [Camille Fournier's Papers We Love Talk on The Chubby lock service for loosely-coupled distributed systems](https://www.youtube.com/watch?v=PqItueBaiRg) and [slides](https://speakerdeck.com/hakka_labs/the-chubby-lock-service-for-loosely-coupled-distributed-systems)
 * [Scaling Networks through Software](https://www.usenix.org/conference/srecon15/program/presentation/taveira)
 
-
 # Thank you!
-Thank you to everyone who helped with feedback/resources and advice for this talk. Special thanks to: Paul Borrill, Jordan West, Caitie McCaffrey, Camille Fournier, Mike O'Neill, Neha Narula, Matt Whiteley, Joao Taveira, Tyler McMullen, Zac Duncan, Nathan Taylor, Armon Dadgard, Peter Alvaro, Peter Bailis, Alex Rasmussen, Bruce Spang, Aysulu Greenberg, and Greg Bako.
+Thank you to everyone who helped with feedback/resources and advice for this talk. Special thanks to: Paul Borrill, Jordan West, Caitie McCaffrey, Camille Fournier, Mike O'Neill, Neha Narula, Matt Whiteley, Joao Taveira, Tyler McMullen, Zac Duncan, Nathan Taylor, Ian Fung, Armon Dadgard, Peter Alvaro, Peter Bailis, Alex Rasmussen, Bruce Spang, Aysulu Greenberg, and Greg Bako.
