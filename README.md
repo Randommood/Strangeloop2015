@@ -39,7 +39,7 @@ See the [image credits](credits.md), link to [slides](https://speakerdeck.com/ra
 * [Virtual Network Diagnosis as a Service](https://research.facebook.com/publications/616093585136896/virtual-network-diagnosis-as-a-service/)
 * [‘Going solid’: a model of system dynamics and consequences for patient safety](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1743994/pdf/v014p00130.pdf)
 * [Building on Quicksand](http://db.cs.berkeley.edu/cs286/papers/quicksand-cidr2009.pdf)
-* [Immutability Changes Everything](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
+* [Immutability Changes Everything](http://cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
 * [You can't sacrifice partition tolerance](http://codahale.com/you-cant-sacrifice-partition-tolerance/)
 * [Complex adaptive system](https://en.wikipedia.org/wiki/Complex_adaptive_system)
 * [Robustness principle](https://en.wikipedia.org/wiki/Robustness_principle)
